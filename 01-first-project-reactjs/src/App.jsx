@@ -35,10 +35,10 @@ const posts = [
     }, 
     content: [
       { type: 'paragraph', content: 'Buenos dias 👋'},
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      { type: 'link', content:'👉 www.instagram.com/camis.js'}
+      { type: 'paragraph', content: 'aaah aaaah zé da manga 🥭🥭🥭'},
+      { type: 'link', content:'👉 www.instagram.com/manogel'}
     ],
-    publishedAt: new Date('2023-05-11 20:45:00'),
+    publishedAt: new Date('2023-06-5 20:45:00'),
   },
   {
     id: 3,
